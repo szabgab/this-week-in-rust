@@ -42,6 +42,7 @@ and just ask the editors to select the category.
 ### Research
 
 ### Miscellaneous
+* [Clap - getting started accepting command line parameters in Rust](https://rust.code-maven.com/clap-simple)
 
 ## Crate of the Week
 
