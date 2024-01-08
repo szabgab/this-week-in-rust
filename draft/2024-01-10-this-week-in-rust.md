@@ -42,6 +42,7 @@ and just ask the editors to select the category.
 ### Research
 
 ### Miscellaneous
+* [Rocket - Single counter in a plain text file](https://rust.code-maven.com/rocket-single-counter-in-text-file)
 
 ## Crate of the Week
 
