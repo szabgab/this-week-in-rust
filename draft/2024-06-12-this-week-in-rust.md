@@ -38,6 +38,7 @@ and just ask the editors to select the category.
 ### Observations/Thoughts
 
 ### Rust Walkthroughs
+* [video] [Your first contribution to an Open Source Rust project](https://www.youtube.com/watch?v=Vf5-DRykoMI)
 
 ### Research
 
