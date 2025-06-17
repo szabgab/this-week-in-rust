@@ -41,6 +41,7 @@ and just ask the editors to select the category.
 ### Project/Tooling Updates
 
 ### Observations/Thoughts
+* [audio] [Rust at Work - conversation with Eli Shalom and Igal Tabachnik of Eureka Labs](https://rustacean-station.org/episode/eli-shalom-and-igal-tabachnik/)
 
 ### Rust Walkthroughs
 
